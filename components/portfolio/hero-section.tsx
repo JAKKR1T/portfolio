@@ -44,15 +44,6 @@ export function HeroSection() {
             </p>
 
             {/* Social Links */}
-            <div className="mb-16 flex items-center justify-center gap-6 md:justify-start">
-              <a
-                href="mailto:jakkrit-jo@rmutp.ac.th"
-                className="text-muted-foreground transition-colors hover:text-primary"
-                aria-label="Send Email"
-              >
-                <Mail className="h-6 w-6" />
-              </a>
-            </div>
           </div>
 
           {/* Profile Photo */}
